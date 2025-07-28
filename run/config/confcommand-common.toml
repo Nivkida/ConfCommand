@@ -1,0 +1,6 @@
+
+#Allowed commands without OP
+[commands]
+	#List of command names (no slash, no args)
+	allowed_commands = ["give", "gamemode"]
+

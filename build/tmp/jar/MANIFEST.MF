@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: confcommand
+Specification-Vendor: Nivkida
+Specification-Version: 1
+Implementation-Title: project1
+Implementation-Version: 1.0
+Implementation-Vendor: Nivkida
+Implementation-Timestamp: 2025-07-26T08:51:19+0300
+
